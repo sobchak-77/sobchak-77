@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sergey!</h1>
 <p align="center">Frontend developer student. Born in Russia but travelling the world &#127757;</p>
 
-[![codewars](https://www.codewars.com/users/sobchak-77/badges/small) 
+![codewars](https://www.codewars.com/users/sobchak-77/badges/small) 
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
