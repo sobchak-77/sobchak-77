@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sergey!</h1>
-<p align="center">Frontend developer student. Born in Russia but travelling the world &#127757;</p>
+<p align="center">Frontend developer student. Born in Siberia but travelling the world &#127757;</p>
 <br>
 <br>
 
